@@ -21,8 +21,8 @@ AIone.tools is a modern, decentralized AI platform that democratizes access to s
   <br>
   <p align="center">
     <img src="./assets/Image-1.png" width="48%">
-    <img src="./assets/Image-2.png" width="48%">
     <img src="./assets/Image-3.png" width="48%">
+    <img src="./assets/Image-2.png" width="48%">
   </p>
 </details>
 
